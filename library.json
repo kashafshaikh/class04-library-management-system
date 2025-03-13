@@ -1,0 +1,16 @@
+[
+    {
+        "title": "hello",
+        "author": "me",
+        "year": 1000,
+        "genre": "readfd",
+        "read": false
+    },
+    {
+        "title": "hi",
+        "author": "me",
+        "year": 1000,
+        "genre": "readfd",
+        "read": true
+    }
+]
